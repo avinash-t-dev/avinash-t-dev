@@ -22,7 +22,7 @@ I am an **Engineering student** specializing in **Full-Stack Development** and *
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
 <img src="https://img.icons8.com/color/48/angularjs.png"/> **Angular**   
 <img src="https://img.icons8.com/color/48/spring-logo.png"/> **Spring**   
-<img src="https://img.icons8.com/color/48/spring-boot.png"/> **Spring Boot**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/> **Spring Boot**
 
 ### 🗄️ **Databases**:
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL** &nbsp;
