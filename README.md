@@ -20,6 +20,9 @@ I am an **Engineering student** specializing in **Full-Stack Development** and *
 ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png) **TailwindCSS** &nbsp;
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap** &nbsp;
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
+<img src="https://img.icons8.com/color/48/angularjs.png"/> **Angular**   
+<img src="https://img.icons8.com/color/48/spring-logo.png"/> **Spring**   
+<img src="https://img.icons8.com/color/48/spring-boot.png"/> **Spring Boot**
 
 ### 🗄️ **Databases**:
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL** &nbsp;
